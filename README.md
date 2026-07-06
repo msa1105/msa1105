@@ -20,8 +20,6 @@
 
 ## 🚀 About Me
 
-<img align="right" width="250" src="https://raw.githubusercontent.com/github/explore/main/topics/api/api.png" />
-
 - 🎓 Studying **Bachelor of Sciences in Computer Sciences** at The Independent Institute of Education (IIE)
 - 🎯 Building toward a career in **Quantitative Finance**, **CyberSecurity**, and **Data Analysis**
 - 🚛 Founder of **[Superterminal](https://superterminal.co.za)** — a logistics OS for South African carriers
